@@ -1,0 +1,23 @@
+
+.navbar {
+    background-color: rgb(255, 255, 255);
+}
+
+
+.quem-somos {
+    background-color: rgb(234, 241, 241);
+    color: darkgray;
+}
+.margin{
+       padding-bottom: 10px;
+       padding-top: 10px;
+}
+
+.quemsomos0{
+    background-color:rgb(167, 204, 92);
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
